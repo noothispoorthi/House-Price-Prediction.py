@@ -1,4 +1,4 @@
-# House-Price-Prediction.py
+# House-Price-Prediction
 
 A Python-based project for predicting house prices using machine learning techniques.
 
